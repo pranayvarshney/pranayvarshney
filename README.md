@@ -5,7 +5,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 
+- 🔭 Currently pursuing CSE from BITS Goa
 - 🌱 I’m currently 'trying to' learn a lot of things 🤣
 - 👯 I’m looking to collaborate on big projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
