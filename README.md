@@ -49,7 +49,7 @@
 
 
 ---
-![](https://komarev.com/ghpvc/?username=pranayvarshney?color=blueviolet)
+![](https://komarev.com/ghpvc/?username=pranayvarshney&color=blueviolet)
 
 
 <br />
