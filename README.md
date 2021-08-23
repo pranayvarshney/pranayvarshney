@@ -51,11 +51,10 @@
 ---
 
 
-
 <br />
 <br />
 
-[![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranayvarshney&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranayvarshney&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
